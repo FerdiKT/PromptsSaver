@@ -10,6 +10,8 @@ ChatGPT Prompt Saver is a browser extension that enhances your ChatGPT experienc
 - Automatically resize the textarea when selecting a saved prompt
 - Compatible with both light and dark themes of ChatGPT
 
+![Textarea with Prompt Saver buttons](textarea.png)
+
 ## Installation
 
 1. Clone this repository or download the source code.
@@ -23,10 +25,11 @@ ChatGPT Prompt Saver is a browser extension that enhances your ChatGPT experienc
 ## Usage
 
 1. Navigate to ChatGPT in your browser.
-2. You'll see a new dropdown button next to the ChatGPT input field.
-3. To save a prompt, type it in the input field and click the "Save and Send" button.
-4. To use a saved prompt, click the dropdown button and select the desired prompt.
-5. To delete a saved prompt, click the trash can icon next to the prompt in the dropdown.
+2. You'll see new buttons next to the ChatGPT input field, as shown in the image above.
+3. To save a prompt, type it in the input field and click the "Save and Send" button (star icon).
+4. To access saved prompts, click the dropdown button (hamburger menu icon).
+5. To use a saved prompt, select it from the dropdown menu.
+6. To delete a saved prompt, click the trash can icon next to the prompt in the dropdown.
 
 ## Contributing
 
