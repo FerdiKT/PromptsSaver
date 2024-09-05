@@ -52,3 +52,7 @@ This project is open source and available for personal use only. Commercial use 
 If you encounter any issues or have questions, please file an issue on the GitHub issue tracker.
 
 We hope you find the ChatGPT Prompt Saver useful! Your feedback and contributions are greatly appreciated.
+
+## Privacy Policy
+
+Our privacy policy is available [here](https://yourusername.github.io/your-repo-name/privacy-policy.html).
