@@ -55,4 +55,4 @@ We hope you find the ChatGPT Prompt Saver useful! Your feedback and contribution
 
 ## Privacy Policy
 
-Our privacy policy is available [here](https://yourusername.github.io/your-repo-name/privacy-policy.html).
+Our privacy policy is available [here](https://ferdikt.github.io/PromptsSaver/privacy-policy.html).
