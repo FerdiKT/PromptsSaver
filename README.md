@@ -1,3 +1,5 @@
+![Textarea with Prompt Saver buttons](textarea.png)
+
 # ChatGPT Prompt Saver
 
 ChatGPT Prompt Saver is a browser extension that enhances your ChatGPT experience by allowing you to save and quickly access frequently used prompts.
@@ -9,8 +11,6 @@ ChatGPT Prompt Saver is a browser extension that enhances your ChatGPT experienc
 - Delete saved prompts easily
 - Automatically resize the textarea when selecting a saved prompt
 - Compatible with both light and dark themes of ChatGPT
-
-![Textarea with Prompt Saver buttons](textarea.png)
 
 ## Installation
 
